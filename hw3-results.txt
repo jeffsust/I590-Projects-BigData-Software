@@ -1,0 +1,13 @@
+3.2.0
+fg491
+True
+ENCRYPTED
+39:08:f4:d3:81:78:f1:31:04:c7:e4:5a:a7:bb:b0:79
+[u'99:34:5f:66:14:fc:80:c6:bd:cd:d0:f5:2b:51:bf:e5', u'39:08:f4:d3:81:78:f1:31:04:c7:e4:5a:a7:bb:b0:79', u'07:a1:fe:20:d0:f1:3d:d5:4e:5f:1d:1a:20:88:32:da']
+hw3-jeffsust
+ID, Name, Flavor, Image, Created: 614034dc-b572-4540-9c29-c6563df95cc2, hw3-jeffsust, 2, f51bd217-f809-46a1-9cdb-604d977ad4e9, 2016-02-05T22:12:38Z
+149.165.158.139
+Linux
+/usr/bin/ansible
+/usr/bin/pip
+/usr/bin/virtualenv
